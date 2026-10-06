@@ -1,0 +1,6 @@
+{
+  "name": "Demo Salon & Parlor - Luxury Hair, Beauty & Wellness",
+  "description": "Ultra-luxury USA salon and barbershop booking system with real-time appointment scheduling, stylist management, and full customer & admin portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
